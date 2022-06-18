@@ -24,6 +24,7 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
   padding: 30px;
+  height: 2px;
 }
 .nam {
   background: teal;
@@ -57,6 +58,7 @@
   padding-top: 0px;
   padding-bottom: 70px;
   font-weight: 1000;
+  border-bottom: solid chocolate;
 }
 .inf {
   color: rgb(255, 255, 255);
@@ -66,6 +68,7 @@
   text-align: left;
   padding-left: 27px;
   font-weight: 900;
+  font-size: 17px;
 }
 .continf {
   color: rgb(255, 255, 255);
@@ -78,6 +81,10 @@
 .foto {
   padding-top: 40px;
   justify-content: center;
-  border-radius: 40%;
-  border-radius: 10%;
 }
+.text {
+  color: blue;
+  border-left: solid coral;
+  margin: 20px;
+  ;
+  }
