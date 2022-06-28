@@ -9,15 +9,15 @@
   width: 100%;
   padding: 0 10%;
   margin: 0 auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .logo {
   float: left;
 }
 .name {
   width: 100%;
-  src: url("assets/fonts/Gagalin-Regular.ttf");
-  color: rgb(255, 255, 255);
-  padding-top: 30%;
+  color: rgb(0, 0, 0);
+  padding-top: 5%;
   padding-bottom: 5%;
 }
 .container {
@@ -28,26 +28,25 @@
   justify-content: center;
 }
 .one {
-  background: rgb(81, 83, 83);
+  background: rgb(228, 228, 228);
   height: 890px;
-  width: auto;
+  width: 330px;
+  border-right: solid rgb(201, 201, 201);
 }
 .two {
-  background: azure;
+  background: rgb(245, 245, 245);
   height: auto;
   width: 600px;
 }
 .prof {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   padding-top: 5px;
   padding-bottom: 50px;
-  border-bottom: solid coral;
 }
 .inf {
   color: rgb(0, 0, 0);
-  width: 220px;
-  padding: 30px;
-  background: azure;
+  width: auto;
+  padding: 10px;
   text-align: left;
   padding-left: 27px;
   font-weight: 900;
@@ -55,48 +54,48 @@
 }
 .continf {
   color: rgb(0, 0, 0);
-  width: 220px;
-  height: 120px;
-  background: azure;
+  width: auto;
+  height: 140px;
   text-align: left;
   padding-left: 27px;
-  border-bottom: solid coral;
-}
+  line-height: 1.9;
+  }
 .circle {
-  border-radius: 20%;
-  border: 2px solid coral;
+  border-top-right-radius: 10%;
+  border-bottom-left-radius: 10%;
+  border: 2px solid rgb(179, 179, 179);
   margin-top: 30px;
 }
 .am {
   text-align: left;
   margin: 20px;
+  border-bottom: 2px solid rgb(179, 179, 179);
 }
 .text {
   text-align: left;
   color: rgb(0, 0, 0);
-  border-left: solid coral;
   margin: 30px;
   padding-left: 10px;
 }
 .ed {
   text-align: left;
   margin: 20px;
+  border-bottom: 2px solid rgb(179, 179, 179);
 }
 .edu {
   text-align: left;
   color: rgb(0, 0, 0);
-  border-left: solid coral;
   margin: 30px;
   padding-left: 10px;
 }
 .en {
   text-align: left;
   margin: 20px;
+  border-bottom: 2px solid rgb(179, 179, 179);
 }
 .enu {
   text-align: left;
   color: rgb(0, 0, 0);
-  border-left: solid coral;
   margin: 30px;
   padding-left: 10px;
 }
